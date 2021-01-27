@@ -1,0 +1,13 @@
+.Menu li { 
+    display: inline; 
+    padding-inline: 70px;
+    text-align: center;
+    }
+.Menu {
+    padding-bottom: 70px;
+}
+
+.footer {
+    display: inline; 
+    padding-inline: 70px;
+    }
